@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+data
+models
+streamlitapp
+app/__pycache__
+app/.ipynb_checkpoints
+app/test_video.mp4

@@ -1,5 +1,9 @@
-# Demo
-> https://huggingface.co/spaces/crobbi/LipNet
+# LipNet
+LipNet is the model that predicts the text only by seeing video not audio nothing and i have integrated the model by using StreamLit UI
+
+
+Wanna check how it works ?? Click the below link 
+##### Demo Link : https://huggingface.co/spaces/crobbi/LipNet
 
 # Here is the  recorded version of the Streamlit app for LipNet
 

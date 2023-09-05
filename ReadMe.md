@@ -13,12 +13,10 @@ LipNet goes beyond traditional speech recognition systems by predicting text usi
 ## 📸 **Recorded Demo**:
 For a quick glance at how the Streamlit app operates, watch the demo below:
 
-<details>
-  <summary>🎬 Click to Watch the Recorded Streamlit Demo for LipNet!</summary>
-  
-  ![LipNet Streamlit Demo](https://github.com/ChandrashekharRobbi/LipNet/assets/91750738/5d1c8153-107b-4a64-8efe-f8bd6721357f)
 
-</details>
+
+[LipNet Streamlit Demo](https://github.com/ChandrashekharRobbi/LipNet/assets/91750738/5d1c8153-107b-4a64-8efe-f8bd6721357f)
+
 
 ---
 
